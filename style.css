@@ -31,3 +31,9 @@ P:first-letter {
 .cellule_dead{
 	background-color: rgb(0, 0, 0);
 }
+
+#log{
+position:absolute;
+margin-top:5px;
+margin-left:5px;"	
+}
