@@ -1,5 +1,3 @@
-<script type="text/javascript">
-
 const taille_x=15;
 const taille_y=15;
 var nbr_cellules=5;
@@ -317,4 +315,3 @@ for (i=0;i<nbr_cellules;i++){
 //commence les déplacements
 startmove();
 
-</script>
